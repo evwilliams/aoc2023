@@ -1,3 +1,5 @@
-# Advent of Code 2023
+# Advent of Code 2023 - Python Edition
 
-https://adventofcode.com/
+https://adventofcode.com/2023
+
+Elixir Edition - https://github.com/evwilliams/aoc2023_elixir
