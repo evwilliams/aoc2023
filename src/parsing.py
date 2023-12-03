@@ -1,5 +1,5 @@
 def parse(*, filename, splitter, filterer, parser):
-    directory = "inputs/"
+    directory = "../inputs/"
     with open(directory + filename, "r") as f:
         file_contents = f.read()
     splits = splitter(file_contents)
